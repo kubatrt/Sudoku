@@ -1,4 +1,4 @@
-Sudoku
-======
+Sudokus
+=======
 
-Android sudoku game project
+Sudoku android game project
